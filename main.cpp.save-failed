@@ -1,0 +1,17 @@
+#include <iostream>
+#include <string>
+#include <stdio.h>
+#include <stdlib.h>
+#include "DigitalRoot.h"
+
+using namespace std;
+
+int main()
+{
+    DigitalRoot object (1223);
+
+    int result = object.getRootValue();
+    cout << "Digital Root = " << result;
+
+    return 0;
+}

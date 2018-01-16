@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1510148444 source:e:\asop\digitalroot\main.cpp
+	<iostream>
+	<string>
+	"DigitalRoot.h"
+
+1510148016 e:\asop\digitalroot\include\digitalroot.h
+
+1510148358 source:e:\asop\digitalroot\src\digitalroot.cpp
+	<iostream>
+	<string>
+	<sstream>
+	"DigitalRoot.h"
+
+1510888142 source:e:\asop\activity01\digitalroot\main.cpp
+	<iostream>
+	<string>
+	"DigitalRoot.h"
+
+1510888124 e:\asop\activity01\digitalroot\include\digitalroot.h
+
+1510888116 source:e:\asop\activity01\digitalroot\src\digitalroot.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<limits>
+	"DigitalRoot.h"
+
+1510888142 source:f:\asop\activity01\digitalroot\main.cpp
+	<iostream>
+	<string>
+	"DigitalRoot.h"
+
+1510888124 f:\asop\activity01\digitalroot\include\digitalroot.h
+
+1510888116 source:f:\asop\activity01\digitalroot\src\digitalroot.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<limits>
+	"DigitalRoot.h"
+
